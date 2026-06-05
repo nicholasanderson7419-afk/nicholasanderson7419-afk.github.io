@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://whitespace-realestate.pages.dev/sitemap-index.xml
