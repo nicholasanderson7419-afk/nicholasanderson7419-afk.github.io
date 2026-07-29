@@ -1,4 +1,2 @@
 User-agent: *
-Allow: /
-
-Sitemap: https://nicholasanderson7419-afk.github.io/sitemap-index.xml
+Disallow: /
